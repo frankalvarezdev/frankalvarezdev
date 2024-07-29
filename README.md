@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hi there, I'm Frank Alvarez 👋</h3>
-    <img src="https://skillicons.dev/icons?i=ts,php,python,java,go,nodejs" />
+    <img src="https://skillicons.dev/icons?i=ts,php,python,go,nodejs,flutter" />
     <img src="https://skillicons.dev/icons?i=react,laravel,mongodb,mysql,deno,graphql" />
 </div>
 
